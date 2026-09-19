@@ -1,6 +1,5 @@
 // tb.v
 // Given -- do not modify.
-//
 // Instantiates all three of your AND-gate implementations side by side and
 // drives them with the SAME fast-toggling stimulus, so you can compare all
 // three waveforms in one view and see directly which implementation(s)
